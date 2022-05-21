@@ -1,0 +1,20 @@
+{
+  "name": "miniprogram-json-schema",
+  "version": "1.0.0",
+  "description": "> Json Schema for MiniProgram config files Validation and IntelliSense. > > 小程序配置文件 json 验证和自动提示 schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sssylvan/miniprogram-json-schema.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sssylvan/miniprogram-json-schema/issues"
+  },
+  "homepage": "https://github.com/sssylvan/miniprogram-json-schema#readme"
+}
