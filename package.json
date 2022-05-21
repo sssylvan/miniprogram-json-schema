@@ -1,6 +1,6 @@
 {
   "name": "miniprogram-json-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "> Json Schema for MiniProgram config files Validation and IntelliSense. > > 小程序配置文件 json 验证和自动提示 schema",
   "main": "index.js",
   "scripts": {
